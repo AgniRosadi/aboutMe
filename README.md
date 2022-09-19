@@ -5,13 +5,13 @@ Oh, Hi there 👋
 </div>
 
 About me:
-- 🔭 I’m currently working for a Software Engineering based company in Jakarta, Indonesia
-🌱 I’m currently learning Agnular, Tailwind and Scss
-👯 I’m looking to collaborate on any kind of web and mobile dev
-🤔 I’m looking for help with any kind of web and mobile dev
-💬 Talk to me about game, anime, movies or books
-😄 Pronouns: He/His/Him
-⚡ Fun fact: Never give up!!
+🔭 I’m currently working for a Software Engineering based company in Jakarta, Indonesia<br>
+🌱 I’m currently learning Agnular, Tailwind and Scss<br>
+👯 I’m looking to collaborate on any kind of web and mobile dev<br>
+🤔 I’m looking for help with any kind of web and mobile dev<br>
+💬 Talk to me about game, anime, movies or books<br>
+😄 Pronouns: He/His/Him<br>
+⚡ Fun fact: Never give up!!<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
