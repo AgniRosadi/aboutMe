@@ -5,7 +5,7 @@ Oh, Hi there 👋
 </div>
 
 About me:
-🔭 I’m currently working for a Software Engineering based company in Jakarta, Indonesia
+- 🔭 I’m currently working for a Software Engineering based company in Jakarta, Indonesia
 🌱 I’m currently learning Agnular, Tailwind and Scss
 👯 I’m looking to collaborate on any kind of web and mobile dev
 🤔 I’m looking for help with any kind of web and mobile dev
