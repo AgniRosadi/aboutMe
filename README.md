@@ -1,10 +1,11 @@
-Oh, Hi there 👋 <br>
+<h2><b>Oh, Hi there 👋 </b></h2><br>
 
 <div id="header" align="center">
   <img src="https://camo.githubusercontent.com/275012b6c7fddf69d621ef219185125ae9e79cc939aa055d727ed84bb43f6992/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966" />
 </div>
 <br>
-About me:<br>
+<h2><b>About me:</b></h2>
+<br>
 - 🔭 I’m currently working for a Software Engineering based company in Jakarta, Indonesia<br>
 - 🌱 I’m currently learning Agnular, Tailwind and Scss<br>
 - 👯 I’m looking to collaborate on any kind of web and mobile dev<br>
