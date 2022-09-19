@@ -1,7 +1,7 @@
 Oh, Hi there 👋 <br>
 
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/275012b6c7fddf69d621ef219185125ae9e79cc939aa055d727ed84bb43f6992/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966" width="200"/>
+  <img src="https://camo.githubusercontent.com/275012b6c7fddf69d621ef219185125ae9e79cc939aa055d727ed84bb43f6992/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966" />
 </div>
 <br>
 About me:<br>
@@ -13,6 +13,8 @@ About me:<br>
 - 😄 Pronouns: He/His/Him<br>
 - ⚡ Fun fact: Never give up!!<br>
 
+<br>
+<h2><b>Things i code with:</b></h2>
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
