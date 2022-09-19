@@ -7,7 +7,7 @@
 <h2><b>About me:</b></h2>
 <br>
 - 🔭 I’m currently working for a Software Engineering based company in Jakarta, Indonesia<br>
-- 🌱 I’m currently learning Agnular, Tailwind and Scss<br>
+- 🌱 I’m currently learning Angular, Tailwind and Scss<br>
 - 👯 I’m looking to collaborate on any kind of web and mobile dev<br>
 - 🤔 I’m looking for help with any kind of web and mobile dev<br>
 - 💬 Talk to me about game, anime, movies or books<br>
